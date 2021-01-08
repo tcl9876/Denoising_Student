@@ -47,11 +47,13 @@ When retraining, you may obtain slightly different results from what was reporte
 
 
 ### If you found our work relevant to your research, please cite us:
+`
 @misc{luhman2021knowledge,  
-      title={Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed},  
-      author={Eric Luhman and Troy Luhman},  
-      year={2021},  
-      eprint={2101.02388},  
-      archivePrefix={arXiv},  
-      primaryClass={cs.LG}  
+            title={Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed},  
+            author={Eric Luhman and Troy Luhman},  
+            year={2021},  
+            eprint={2101.02388},  
+            archivePrefix={arXiv},  
+            primaryClass={cs.LG}  
 }
+`
